@@ -13,7 +13,7 @@ Features:-
 - An audit trail of every action
 
 
-- Public site: file:///C:/Users/HP/OneDrive/Desktop/Anupalan/anupalan-public-site.html
+- Public site:
 - Officials:
 
 
