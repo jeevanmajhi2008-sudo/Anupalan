@@ -13,7 +13,7 @@ Features:-
 - An audit trail of every action
 
 
-- Public site:https://claude.ai/artifact/Pd2vBqsdGgsKSbkBKnrupy
-- Officials:https://claude.ai/artifact/Pd2vBqsdGgsKSbkBKnrupy
+- Public-Site:https://claude.ai/artifact/Pd2vBqsdGgsKSbkBKnrupy
+- AICTE Admin's portal:https://claude.ai/artifact/Pd2vBqsdGgsKSbkBKnrupy
 
 
