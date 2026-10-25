@@ -1,4 +1,4 @@
-# Anupalan
+# Anupalan(https://claude.ai/artifact/Pd2vBqsdGgsKSbkBKnrupy)
 
 
 AnuPalan tracks AICTE approval applications and compliance in one place. It routes each application through scrutiny, the Expert Visit Committee (EVC) and SAC/SHC, and keeps track of undertakings and document renewals. It sends alerts before deadlines are missed.
